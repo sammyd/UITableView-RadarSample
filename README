@@ -1,5 +1,7 @@
 # TableTest
 
+Filed as rdar://13846681 and on [OpenRadar](http://openradar.appspot.com/13846681).
+
 This project demonstrates a bug with reordering cells in UITableView.
 
 The bug occurs only when the table contains cells of differing heights, more
